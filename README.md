@@ -2,8 +2,11 @@
 Coding Project buygameshop
 
 DEMO Home:
-![Screenshot 2025-04-28 184009](https://github.com/user-attachments/assets/a2c773c6-daf5-4c12-8669-2ee16475745d)
+![Screenshot 2025-05-09 050055](https://github.com/user-attachments/assets/f66e49f1-f0a2-49b5-a362-95fa4d1f759a)
+
+
 ![Screenshot 2025-05-09 050016](https://github.com/user-attachments/assets/6e584e28-bf73-4b6f-ac2c-8386112fac91)
+![Screenshot 2025-05-05 220828](https://github.com/user-attachments/assets/8de2eebc-7c7c-43fc-8e1f-7b00b281dc52)
 
 
 DEMO Admin: 
