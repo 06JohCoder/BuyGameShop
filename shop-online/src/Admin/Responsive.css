@@ -1,0 +1,9 @@
+@media (max-width: 800px) {
+    nav{
+        display: none;
+    }
+    main{
+        margin-left: 0 !important;
+    }
+}
+

@@ -1,0 +1,847 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "The Boba Teashop",
+      "priceNew": "0",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.TEz-xBkMGVARUu3sJ14CpQHaEK&pid=Api&P=0&h=220",
+      "description": "The Boba Teashop is a fun and charming simulation game where you run your own bubble tea shop. Players mix and serve different types of boba drinks to satisfy their customers. You can upgrade your store, unlock new recipes, and attract more visitors. The colorful graphics and relaxing gameplay make it a perfect casual experience. Grow your shop and become the ultimate boba master!",
+      "linkDow": "https://yeumoney.com/KSQBEF",
+      "capacity": "1000",
+      "userPlay": "1",
+      "ram": "1",
+      "language": "Việt Hóa",
+      "system": "WIN",
+      "playWith": "Bàn Phím",
+      "Category": "Kinh Dị",
+      "privilege": "true"
+    },
+    {
+      "id": "dd1c",
+      "title": "Bus Simulator Offroad Việt Hoá",
+      "priceNew": 0,
+      "priceOld": 0,
+      "priceSale": 0,
+      "image": "https://drive.google.com/thumbnail?id=1fYFoeaSJgKCaGtF0jDIFPCWm_iTUCJ6G&sz=w1600-h900",
+      "description": "Bus Simulator Offroad là lựa chọn hoàn hảo cho fan mô phỏng lái xe muốn thử thách tay lái trên những cung đường hiểm hóc và hoang dã. Thoả mãn đam mê “offroad” cùng tiếng động cơ gầm rú!",
+      "linkDow": "https://yeumoney.com/2s8z-Hbp",
+      "capacity": 661,
+      "userPlay": 1,
+      "ram": 2,
+      "language": "Tiếng Anh",
+      "system": "WIN",
+      "playWith": "Bàn Phím",
+      "Category": "Gỉa lập địa hình,Lái xe",
+      "privilege": "true"
+    },
+    {
+      "id": "4fd3",
+      "title": "Survive on Raft + Online",
+      "priceNew": 0,
+      "priceOld": 0,
+      "priceSale": 0,
+      "image": "https://drive.google.com/thumbnail?id=1Ena0LuL9mPodkTKt2pcDC1u16oYUTY49&sz=w1600-h900",
+      "description": "Một vụ tai nạn máy bay khủng khiếp đã cướp đi sinh mạng của tất cả hành khách và phi hành đoàn... ngoại trừ một người. Bạn đã sống sót giữa đại dương vô biên và giờ bạn phải thách thức số phận và chiến đấu cho cuộc sống của mình.\n\nVới hơn 60 loại tùy chọn chế tạo và xây dựng hữu ích khác nhau, bạn có thể xây dựng một ngôi nhà mới ngay giữa đại dương!\n\nThu thập tài nguyên, mở rộng bè của bạn và giúp đỡ lẫn nhau sống sót trong đại dương vô biên và nguy hiểm này. Làm việc theo nhóm là chìa khóa để bạn sống sót!pass:ddat14game.com",
+      "linkDow": "https://yeumoney.com/j6GJxlz_",
+      "capacity": 3000,
+      "userPlay": 6,
+      "ram": 4,
+      "language": "Tiếng Anh",
+      "system": "WIN",
+      "playWith": "Bàn Phím",
+      "Category": "Hành Động, Online, Phiêu Lưu, Sinh Tồn,Thế Giới Mở",
+      "privilege": "true"
+    },
+    {
+      "id": "dba5",
+      "title": " Dead Hourz",
+      "priceNew": 0,
+      "priceOld": 0,
+      "priceSale": 0,
+      "image": "https://lh3.googleusercontent.com/d/1OAHhgmiXXJs-I49XzfLFfTI3fg862bPv=s220?authuser=0",
+      "description": "Dead Hourz là hành trình 22 ngày đầy cam go nơi cái chết luôn cận kề. Với hệ thống quản lý tài nguyên khắc nghiệt, lối chơi đầy chiến lược và những lựa chọn đạo đức khó khăn, trò chơi mang đến trải nghiệm sinh tồn sâu sắc, nơi tình thân, sự hy sinh và bản năng sống còn được đặt lên bàn cân mỗi giờ. Bạn sẽ làm gì để giữ cho gia đình sống sót trong những giờ khắc cuối cùng?",
+      "linkDow": "https://yeumoney.com/a8ohL",
+      "capacity": 1000,
+      "userPlay": 1,
+      "ram": 8,
+      "language": "Tiếng Anh",
+      "system": "WIN",
+      "playWith": "Bàn Phím",
+      "Category": "Hành Động, Phiêu Lưu, Sinh Tồn, Mô Phỏng,",
+      "privilege": "true"
+    },
+    {
+      "id": "1",
+      "title": "Starfall Galaxy",
+      "priceNew": 9.99,
+      "priceOld": 10.76,
+      "priceSale": null,
+      "description": "Explore distant galaxies, fight alien factions, and uncover ancient secrets in this sci-fi space RPG.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Legends of Arcanum",
+      "priceNew": 19.99,
+      "priceOld": 21.16,
+      "priceSale": 5.5,
+      "description": "A tactical turn-based RPG set in a magical world filled with mysterious dungeons and powerful relics.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Drift Horizon",
+      "priceNew": 14.99,
+      "priceOld": 18.31,
+      "priceSale": 18.14,
+      "description": "High-octane street racing with fully customizable vehicles and online leaderboards.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/header.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Neon Shadows",
+      "priceNew": 12.99,
+      "priceOld": 16.05,
+      "priceSale": 19.03,
+      "description": "A fast-paced cyberpunk FPS with slick movement and stylish combat in a neon-lit city.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Pixel Knights",
+      "priceNew": 8.99,
+      "priceOld": 9.21,
+      "priceSale": 2.46,
+      "description": "Retro-style pixel RPG where you lead a band of knights to restore peace to a fractured realm.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/39210/header.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Quantum Siege",
+      "priceNew": 9.99,
+      "priceOld": 10.76,
+      "priceSale": 7.17,
+      "description": "Command futuristic units in a hybrid RTS-Tower Defense game set in a quantum warzone.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Mythril Realms",
+      "priceNew": 19.99,
+      "priceOld": 21.16,
+      "priceSale": 5.5,
+      "description": "MMORPG with rich lore, vast exploration, guild wars, and powerful artifact crafting.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Turbo Drift X",
+      "priceNew": 14.99,
+      "priceOld": 18.31,
+      "priceSale": 18.14,
+      "description": "Arcade-style drifting racer with neon visuals and synthwave soundtrack.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/header.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Cyber Rage: Reborn",
+      "priceNew": 12.99,
+      "priceOld": 16.05,
+      "priceSale": null,
+      "description": "Side-scrolling beat ‘em up in a futuristic world ruled by rogue AIs.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/774801/header.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Magic Paintball Arena",
+      "priceNew": 8.99,
+      "priceOld": 9.21,
+      "priceSale": 2.46,
+      "description": "Competitive paintball FPS where spells are your ammo and creativity is your weapon.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/header.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Feline Adventures",
+      "priceNew": 8.99,
+      "priceOld": 9.94,
+      "priceSale": 9.57,
+      "description": "Platformer where you play as a brave cat navigating a world full of quirky enemies and puzzles.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/header.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Chicken Defense Force",
+      "priceNew": 9.99,
+      "priceOld": 11.16,
+      "priceSale": 10.46,
+      "description": "Top-down shooter where farm animals fight back against the alien poultry invasion.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Oil Rush Simulator",
+      "priceNew": 4.99,
+      "priceOld": 6.16,
+      "priceSale": 18.89,
+      "description": "Tycoon game where you explore, drill, and build your oil empire while managing the economy.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/header.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Cucumber Warfare",
+      "priceNew": 1.49,
+      "priceOld": 1.68,
+      "priceSale": 11.44,
+      "description": "Bizarre 2D shooter where mutant vegetables fight over garden territory.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Witchlight Chronicles",
+      "priceNew": 19.99,
+      "priceOld": 21.16,
+      "priceSale": 5.5,
+      "description": "Story-driven action-RPG featuring elemental magic, flying mounts, and epic quests.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/header.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Chrono Blades",
+      "priceNew": 19.99,
+      "priceOld": 21.16,
+      "priceSale": 5.5,
+      "description": "Hack-and-slash through time in this co-op action game set across eras of human history.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/221100/header.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Neon Elixir",
+      "priceNew": 25.99,
+      "priceOld": 29.99,
+      "priceSale": 10,
+      "description": "Cyber-noir visual novel with branching storylines and hacking minigames.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Mist of Roses",
+      "priceNew": 12.49,
+      "priceOld": 15.99,
+      "priceSale": 3.5,
+      "description": "Calming walking sim where you explore a hand-painted world inspired by classical poetry.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/493340/header.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Silk Realm",
+      "priceNew": 35.99,
+      "priceOld": 42.99,
+      "priceSale": 7,
+      "description": "Relaxing world-building strategy game where you manage a fantasy kingdom on a floating silk island.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1057090/header.jpg"
+    }
+  ],
+  "newproduct": [
+    {
+      "id": "7",
+      "title": "Doom Eternal",
+      "developer": "id Software",
+      "publisher": "Bethesda Softworks",
+      "release_date": "2020-03-20",
+      "genres": [
+        "Action",
+        "Shooter"
+      ],
+      "price": 59.99,
+      "rating": 9,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/782330/library_600x900_2x.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Red Dead Redemption 2",
+      "developer": "Rockstar Games",
+      "publisher": "Rockstar Games",
+      "release_date": "2019-12-05",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Open World"
+      ],
+      "price": 59.99,
+      "rating": 9.8,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/1174180/library_600x900_2x.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Among Us",
+      "developer": "Innersloth",
+      "publisher": "Innersloth",
+      "release_date": "2018-11-16",
+      "genres": [
+        "Multiplayer",
+        "Party",
+        "Casual"
+      ],
+      "price": 4.99,
+      "rating": 8.5,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/945360/library_600x900_2x.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Terraria",
+      "developer": "Re-Logic",
+      "publisher": "Re-Logic",
+      "release_date": "2011-05-16",
+      "genres": [
+        "Adventure",
+        "Sandbox",
+        "Survival"
+      ],
+      "price": 9.99,
+      "rating": 9.2,
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/105600/library_600x900_2x.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Hollow Knight",
+      "developer": "Team Cherry",
+      "publisher": "Team Cherry",
+      "release_date": "2017-02-24",
+      "genres": [
+        "Action",
+        "Metroidvania",
+        "Indie"
+      ],
+      "price": 14.99,
+      "rating": 9.4,
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/367520/library_600x900_2x.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Elden Ring",
+      "developer": "FromSoftware Inc.",
+      "publisher": "Bandai Namco Entertainment",
+      "release_date": "2022-02-25",
+      "genres": [
+        "Action",
+        "RPG",
+        "Open World"
+      ],
+      "price": 59.99,
+      "rating": 9.5,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/1245620/library_600x900_2x.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Hades",
+      "developer": "Supergiant Games",
+      "publisher": "Supergiant Games",
+      "release_date": "2020-09-17",
+      "genres": [
+        "Action",
+        "Rogue-like",
+        "Indie"
+      ],
+      "price": 24.99,
+      "rating": 9,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/1145360/library_600x900_2x.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Stardew Valley",
+      "developer": "ConcernedApe",
+      "publisher": "ConcernedApe",
+      "release_date": "2016-02-26",
+      "genres": [
+        "Simulation",
+        "RPG",
+        "Indie"
+      ],
+      "price": 14.99,
+      "rating": 9.4,
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/413150/library_600x900_2x.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Cyberpunk 2077",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "release_date": "2020-12-10",
+      "genres": [
+        "Action",
+        "RPG",
+        "Open World"
+      ],
+      "price": 59.99,
+      "rating": 8,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/1091500/library_600x900_2x.jpg"
+    },
+    {
+      "id": "16",
+      "title": "The Witcher 3: Wild Hunt",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "release_date": "2015-05-18",
+      "genres": [
+        "Action",
+        "RPG",
+        "Open World"
+      ],
+      "price": 39.99,
+      "rating": 9.7,
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/292030/library_600x900_2x.jpg"
+    }
+  ],
+  "showproduct": [
+    {
+      "id": "1",
+      "title": "Elden Ring",
+      "developer": "FromSoftware Inc.",
+      "publisher": "Bandai Namco Entertainment",
+      "release_date": "2022-02-25",
+      "genres": [
+        "Action",
+        "RPG",
+        "Open World"
+      ],
+      "price": 59.99,
+      "rating": 9.5,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/1245620/library_600x900_2x.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Hades",
+      "developer": "Supergiant Games",
+      "publisher": "Supergiant Games",
+      "release_date": "2020-09-17",
+      "genres": [
+        "Action",
+        "Rogue-like",
+        "Indie"
+      ],
+      "price": 24.99,
+      "rating": 9,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/1145360/library_600x900_2x.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Stardew Valley",
+      "developer": "ConcernedApe",
+      "publisher": "ConcernedApe",
+      "release_date": "2016-02-26",
+      "genres": [
+        "Simulation",
+        "RPG",
+        "Indie"
+      ],
+      "price": 14.99,
+      "rating": 9.4,
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/413150/library_600x900_2x.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Cyberpunk 2077",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "release_date": "2020-12-10",
+      "genres": [
+        "Action",
+        "RPG",
+        "Open World"
+      ],
+      "price": 59.99,
+      "rating": 8,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/1091500/library_600x900_2x.jpg"
+    },
+    {
+      "id": "5",
+      "title": "The Witcher 3: Wild Hunt",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "release_date": "2015-05-18",
+      "genres": [
+        "Action",
+        "RPG",
+        "Open World"
+      ],
+      "price": 39.99,
+      "rating": 9.7,
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/292030/library_600x900_2x.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Half-Life: Alyx",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "release_date": "2020-03-23",
+      "genres": [
+        "Action",
+        "VR"
+      ],
+      "price": 59.99,
+      "rating": 9.6,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/546560/library_600x900_2x.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Doom Eternal",
+      "developer": "id Software",
+      "publisher": "Bethesda Softworks",
+      "release_date": "2020-03-20",
+      "genres": [
+        "Action",
+        "Shooter"
+      ],
+      "price": 59.99,
+      "rating": 9,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/782330/library_600x900_2x.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Red Dead Redemption 2",
+      "developer": "Rockstar Games",
+      "publisher": "Rockstar Games",
+      "release_date": "2019-12-05",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Open World"
+      ],
+      "price": 59.99,
+      "rating": 9.8,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/1174180/library_600x900_2x.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Among Us",
+      "developer": "Innersloth",
+      "publisher": "Innersloth",
+      "release_date": "2018-11-16",
+      "genres": [
+        "Multiplayer",
+        "Party",
+        "Casual"
+      ],
+      "price": 4.99,
+      "rating": 8.5,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/945360/library_600x900_2x.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Terraria",
+      "developer": "Re-Logic",
+      "publisher": "Re-Logic",
+      "release_date": "2011-05-16",
+      "genres": [
+        "Adventure",
+        "Sandbox",
+        "Survival"
+      ],
+      "price": 9.99,
+      "rating": 9.2,
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/105600/library_600x900_2x.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Hollow Knight",
+      "developer": "Team Cherry",
+      "publisher": "Team Cherry",
+      "release_date": "2017-02-24",
+      "genres": [
+        "Action",
+        "Metroidvania",
+        "Indie"
+      ],
+      "price": 14.99,
+      "rating": 9.4,
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/367520/library_600x900_2x.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Elden Ring",
+      "developer": "FromSoftware Inc.",
+      "publisher": "Bandai Namco Entertainment",
+      "release_date": "2022-02-25",
+      "genres": [
+        "Action",
+        "RPG",
+        "Open World"
+      ],
+      "price": 59.99,
+      "rating": 9.5,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/1245620/library_600x900_2x.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Hades",
+      "developer": "Supergiant Games",
+      "publisher": "Supergiant Games",
+      "release_date": "2020-09-17",
+      "genres": [
+        "Action",
+        "Rogue-like",
+        "Indie"
+      ],
+      "price": 24.99,
+      "rating": 9,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/1145360/library_600x900_2x.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Stardew Valley",
+      "developer": "ConcernedApe",
+      "publisher": "ConcernedApe",
+      "release_date": "2016-02-26",
+      "genres": [
+        "Simulation",
+        "RPG",
+        "Indie"
+      ],
+      "price": 14.99,
+      "rating": 9.4,
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/413150/library_600x900_2x.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Cyberpunk 2077",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "release_date": "2020-12-10",
+      "genres": [
+        "Action",
+        "RPG",
+        "Open World"
+      ],
+      "price": 59.99,
+      "rating": 8,
+      "platforms": [
+        "Windows"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/1091500/library_600x900_2x.jpg"
+    },
+    {
+      "id": "16",
+      "title": "The Witcher 3: Wild Hunt",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "release_date": "2015-05-18",
+      "genres": [
+        "Action",
+        "RPG",
+        "Open World"
+      ],
+      "price": 39.99,
+      "rating": 9.7,
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "image_url": "https://steamcdn-a.akamaihd.net/steam/apps/292030/library_600x900_2x.jpg"
+    }
+  ],
+  "listservices": [
+    {
+      "name": "Games Steam",
+      "subservices": [
+        "S",
+        "GTA V",
+        "CS:GO Prime",
+        "PUBG Steam",
+        "Steam Wallet",
+        "Counter-Strike 2",
+        "Dota 2",
+        "PUBG: Battlegrounds",
+        "Rust",
+        "Apex Legends",
+        "ARK: Survival Evolved",
+        "Call of Duty: Modern Warfare II",
+        "Elden Ring",
+        "Cyberpunk 2077",
+        "The Witcher 3: Wild Hunt",
+        "Red Dead Redemption 2",
+        "Phasmophobia",
+        "Dead by Daylight",
+        "Among Us",
+        "Don't Starve Together",
+        "Terraria",
+        "Stardew Valley",
+        "Fall Guys",
+        "Team Fortress 2"
+      ],
+      "id": "2c2c"
+    },
+    {
+      "name": "Tải Games Off",
+      "subservices": [
+        "God of War",
+        "Assassin’s Creed Valhalla",
+        "Resident Evil 4 Remake",
+        "Hogwarts Legacy",
+        "The Last of Us Part I",
+        "Sekiro: Shadows Die Twice",
+        "Far Cry 6",
+        "Watch Dogs: Legion",
+        "Days Gone",
+        "Hitman 3"
+      ],
+      "id": "eb83"
+    }
+  ],
+  "blog": [
+    {
+      "title": "🎮 Tại Sao Lại Phải Mua Tài Khoản Game Qua Bên Thứ 3?",
+      "body": "Trong cộng đồng game hiện nay, việc mua bán tài khoản đã trở nên khá phổ biến. Tuy nhiên, nhiều game thủ vẫn còn thắc mắc: \"Tại sao nên mua tài khoản game thông qua bên thứ 3, thay vì mua trực tiếp từ người bán?\" Hãy cùng tìm hiểu một số lý do dưới đây để hiểu rõ hơn nhé!",
+      "image": "https://www.g4market.com/_next/image?url=%2Fstatic%2Fimages%2Fupcoming%2Fark2.jpg&w=1080&q=55",
+      "id": "0e3c"
+    },
+    {
+      "title": "🔐 1. Đảm Bảo An Toàn Giao Dịch",
+      "body": "Mua qua bên thứ 3 thường giúp đảm bảo tính minh bạch và an toàn. Nhiều nền tảng trung gian sẽ giữ tiền của bạn cho đến khi bạn xác nhận rằng tài khoản đã được giao đúng và hoạt động bình thường. Điều này giúp tránh rủi ro bị lừa đảo, mất tiền oan.",
+      "image": "https://www.g4market.com/_next/image?url=%2Fstatic%2Fimages%2Fupcoming%2Fark2.jpg&w=1080&q=55",
+      "id": "c86a"
+    },
+    {
+      "title": "👥 2. Có Hệ Thống Đánh Giá – Uy Tín Người Bán",
+      "body": "Các nền tảng trung gian thường có hệ thống đánh giá hoặc hồ sơ người bán. Bạn có thể xem xét các phản hồi từ những người mua trước để chọn người bán uy tín, tránh trường hợp gặp scam.",
+      "image": "https://www.g4market.com/_next/image?url=%2Fstatic%2Fimages%2Fupcoming%2Fark2.jpg&w=1080&q=55",
+      "id": "bda5"
+    },
+    {
+      "title": "📜 3. Hỗ Trợ Pháp Lý và Chính Sách Hoàn Tiền",
+      "body": "Nhiều bên thứ 3 có chính sách bảo vệ người mua, hỗ trợ hoàn tiền hoặc xử lý khiếu nại nếu giao dịch có vấn đề. Đây là điều bạn không thể có nếu mua tài khoản trực tiếp từ cá nhân lạ trên mạng.",
+      "image": "https://www.g4market.com/_next/image?url=%2Fstatic%2Fimages%2Fupcoming%2Fark2.jpg&w=1080&q=55",
+      "id": "318c"
+    },
+    {
+      "title": "💬 4. Hỗ Trợ Khách Hàng 24/7",
+      "body": "Một số nền tảng uy tín có đội ngũ hỗ trợ khách hàng hoạt động liên tục, giúp bạn giải quyết nhanh chóng các vấn đề phát sinh trong quá trình mua tài khoản game.",
+      "image": "https://www.g4market.com/_next/image?url=%2Fstatic%2Fimages%2Fupcoming%2Fark2.jpg&w=1080&q=55",
+      "id": "211f"
+    }
+  ],
+  "users": [
+    {
+      "username": "adminnhatluong",
+      "password": "admin123456",
+      "accessCode": "ABC123",
+      "id": "6bcc"
+    },
+    {
+      "username": "user1",
+      "password": "password1",
+      "accessCode": "DEF456",
+      "id": "3c1c"
+    },
+    {
+      "username": "Nhatluong1252006@",
+      "password": "Nhatluong1252006@",
+      "accessCode": "A0101",
+      "id": "96d7"
+    }
+  ],
+  "banners": [
+    {
+      "id": "1",
+      "banner_1": "https://lh3.googleusercontent.com/pw/AP1GczNpSlZs9O4bYXy4zCVABgoUAiXy-TmXw9zBVh89LaonoQ1dO_UQlBD6Yi_PNIImaXZXH3wqTI-F-KnxR9qc0aRz-GJX32YIZw0TiJTemqQLXVXFx7MQXx9YFKP1RlYQA3iqTnTsLKdJIiX_mx4cm3Q2=w906-h599-s-no-gm?authuser=0",
+      "banner_2": "https://lh3.googleusercontent.com/pw/AP1GczMKmKvzhoZ5Hj90bSGubkSQ2Xz-fOrZdazZhZEgSM4zsIgsfr3LR8qj6SdLTV124Ioo15pfMXR6sVaZ1ZWDErOHSWEdAkN3oPHPQlIN4nDjsfXvnm9qdYdOt5upWOPPuRy30zFRE2fXuIAsIr75xdgb=w418-h428-s-no-gm?authuser=0",
+      "banner_3": "https://lh3.googleusercontent.com/pw/AP1GczMse2mSxWHMUH61VRtvq54RfFvrb0PAv8w28NFV6ysR_WgA_GDyk4-p0WPwiIxFE6VBt5xcKJvUd2r8SqxeHuX2BaUNeFmkEUUu7zzU5lnR-bGGAi6MUudibhyq55M0af9OXxBE6Kiuk9RJdEwWd_5W=w1536-h795-s-no-gm?authuser=0",
+      "banner_4": "https://lh.googleusercontent.com/pw/AP1GczM-hAePCltA-7dLJncJ0muj5V3XkIb29MYHYwGgmGgKL9V9irBlMiH-3DZsisoFv3jCoh3uEsBEkIEWLMawlhKbMANOwc4CkWvhVFqN08Y2-N_Wn0Ik3TzFiyYgLzGfNUda-z1iU_EwgWmAJ5agP3OD=w1188-h617-s-no-gm?authuser=0",
+      "banner_5": "https://lh3.googleusercontent.com/pw/AP1GczM-hAePCltA-7dLJncJ0muj5V3XkIb29MYHYwGgmGgKL9V9irBlMiH-3DZsisoFv3jCoh3uEsBEkIEWLMawlhKbMANOwc4CkWvhVFqN08Y2-N_Wn0Ik3TzFiyYgLzGfNUda-z1iU_EwgWmAJ5agP3OD=w1188-h617-s-no-gm?authuser=0"
+    }
+  ]
+}

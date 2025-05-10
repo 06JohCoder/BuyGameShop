@@ -1,0 +1,102 @@
+.login-container__admin {
+  max-width: 420px;
+  margin: 80px auto;
+  padding: 40px 35px;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(8px);
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  font-family: 'Segoe UI', sans-serif;
+  transition: all 0.3s ease-in-out;
+}
+
+.login-container__admin:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+}
+
+.login-container__admin h2 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 28px;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.login-container__admin form div {
+  margin-bottom: 22px;
+}
+
+.login-container__admin label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.login-container__admin input {
+  width: 93%;
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  font-size: 15px;
+  transition: all 0.3s ease;
+  background-color: #f9f9f9;
+}
+
+.login-container__admin input:focus {
+  border-color: #3498db;
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+  background-color: #fff;
+  outline: none;
+}
+
+.login-container__admin button {
+  width: 100%;
+  padding: 14px;
+  background: linear-gradient(135deg, #3498db, #6dd5fa);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.login-container__admin button:hover {
+  background: linear-gradient(135deg, #2980b9, #4facfe);
+}
+
+.login-container__admin p {
+  text-align: center;
+  margin-top: 18px;
+  font-weight: 600;
+  color: #e74c3c;
+}
+
+
+/* Xử lý loading */
+.login-container__admin button:disabled {
+  opacity: 0.8;
+  cursor: not-allowed;
+}
+
+.login-container__admin button:disabled::after {
+  content: '';
+  display: inline-block;
+  margin-left: 8px;
+  width: 14px;
+  height: 14px;
+  border: 2px solid #fff;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+

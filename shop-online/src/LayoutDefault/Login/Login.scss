@@ -1,0 +1,136 @@
+$primary-color: #007bff;
+$facebook-color: #3b5998;
+$twitter-color: #1DA1F2;
+$google-color: #db4437;
+
+.login-container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+
+  .login-form,
+  .social-login {
+    flex: 1;
+    max-width: 450px;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .login-form {
+    background-color: #ffffff;
+  }
+
+  .social-login {
+    background-image: url('https://path-to-your-background-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(255, 255, 255, 0.5);
+      z-index: 0;
+    }
+
+    > * {
+      gap: 50px;
+      position: relative;
+      z-index: 1;
+      display: flex;
+    }
+
+    .Login_img {
+      width: 100px;
+      height: auto;
+      object-fit: contain;
+    }
+  }
+}
+
+input {
+  margin: 12px 0;
+  padding: 12px;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: border-color 0.3s;
+
+  &:focus {
+    outline: none;
+    border-color: $primary-color;
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.2);
+  }
+}
+
+button {
+  margin: 12px 0;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  transition: background-color 0.3s;
+
+  &.facebook {
+    background-color: $facebook-color;
+    color: white;
+
+    &:hover {
+      background-color: darken($facebook-color, 8%);
+    }
+  }
+
+  &.twitter {
+    background-color: $twitter-color;
+    color: white;
+
+    &:hover {
+      background-color: darken($twitter-color, 8%);
+    }
+  }
+
+  &.google {
+    background-color: $google-color;
+    color: white;
+
+    &:hover {
+      background-color: darken($google-color, 8%);
+    }
+  }
+}
+
+.forgot-password {
+  gap: 140px;
+  display: flex;
+  text-align: right;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+// a {
+//   color: $primary-color;
+//   text-decoration: none;
+
+//   &:hover {
+//     text-decoration: underline;
+//   }
+// }

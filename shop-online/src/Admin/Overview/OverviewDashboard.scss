@@ -1,0 +1,60 @@
+.overview-dashboard {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+
+  .title {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+  }
+
+  .stat-card {
+    background: linear-gradient(to bottom right, #7c3aed, #4f46e5);
+    color: white;
+    border-radius: 16px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+  }
+
+  .stat-content {
+    padding: 24px;
+    text-align: center;
+  }
+
+  .stat-label {
+    font-size: 24px;
+    opacity: 0.8;
+    color: #fff;
+  }
+
+  .stat-value {
+    font-size: 24px;
+    font-weight: 600;
+    color: #fff;
+
+  }
+
+  .chart-card {
+    box-shadow: 0 6px 15px rgba(255, 63, 63, 0.1);
+    border-radius: 16px;
+    background: white;
+  }
+
+  .chart-content {
+    padding: 24px;
+  }
+
+  .chart-title {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 16px;
+  }
+}
+

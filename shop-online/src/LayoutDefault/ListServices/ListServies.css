@@ -1,0 +1,100 @@
+
+.navbar {
+    background-color: #FFD700; /* Gold color */
+    display: flex;
+    justify-content: center;
+    padding: 10px 0; /* Added padding for better spacing */
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+    position: relative;
+}
+
+.navbar li {
+    position: relative;
+    cursor: pointer;
+    padding: 12px 6px;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    color: black; /* Ensures text color is visible */
+}
+
+.navbar li i {
+    margin-right: 5px;
+}
+
+/* Submenu */
+.navbar li .submenu {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Maximum 2 columns */
+    gap: 8px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translate(-50%, 10px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    position: absolute;
+    top: 105%;
+    background-color: #FFD700;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 999;
+    white-space: normal;
+    width: max-content;
+}
+
+/* Show submenu on hover */
+.navbar li:hover .submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(-50%, 0);
+}
+
+/* Each submenu item */
+.navbar li .submenu li {
+    padding: 8px 15px;
+    white-space: nowrap;
+    color: black;
+    transition: all 0.3s ease;
+    background-color: transparent; /* Ensures no background by default */
+}
+
+.navbar .first-two .submenu{
+    background-color: aqua;
+    left: 250px;
+}
+.navbar .last .submenu{
+    background-color: rgb(109, 243, 133);
+    left: -100px;
+}
+/* Hover effect on submenu items */
+.navbar li .submenu li:hover {
+    background-color: #f7f1c6;
+    opacity: 1; /* Removed opacity reduction for better visibility */
+    border-radius: 10px;
+}
+
+/* Responsive design */
+/* @media (max-width: 990px) {
+    .navbar {
+        width: 1180px;
+        overflow-x: auto;
+        padding: 0 10px;
+    }
+
+    .navbar ul {
+        gap: 10px;
+    }
+
+    .navbar li {
+        font-size: 14px; 
+    }
+   
+} */

@@ -1,0 +1,8 @@
+.admin-layout nav{
+    position: fixed;
+    height: 100%;
+}
+.admin-layout main{
+    margin-left: 200px;
+    
+}

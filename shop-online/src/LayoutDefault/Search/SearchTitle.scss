@@ -1,0 +1,197 @@
+
+// h1 {
+//     font-size: 32px;
+//     font-weight: 700;
+//     text-align: center;
+//     color: #2c3e50;
+//     margin: 30px 0;
+//     position: relative;
+//     animation: fadeIn 1s ease;
+  
+//     &::after {
+//       content: '';
+//       width: 80px;
+//       height: 4px;
+//       background: #e91e63;
+//       position: absolute;
+//       bottom: -10px;
+//       left: 50%;
+//       transform: translateX(-50%);
+//       border-radius: 2px;
+//     }
+//   }
+  
+//   @keyframes fadeIn {
+//     from {
+//       opacity: 0;
+//       transform: translateY(-10px);
+//     }
+//     to {
+//       opacity: 1;
+//       transform: translateY(0);
+//     }
+//   }
+  
+
+// .product {
+//     display: grid;
+//     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+//     gap: 20px;
+//     padding: 20px;
+  
+//     h1 {
+//       grid-column: 1 / -1;
+//       font-size: 32px;
+//       font-weight: 700;
+//       text-align: center;
+//       color: #2c3e50;
+//       position: relative;
+//       margin-bottom: 30px;
+//       animation: fadeIn 1s ease;
+  
+//       &::after {
+//         content: '';
+//         width: 80px;
+//         height: 4px;
+//         background: #e91e63;
+//         position: absolute;
+//         bottom: -10px;
+//         left: 50%;
+//         transform: translateX(-50%);
+//         border-radius: 2px;
+//       }
+//     }
+  
+//     &__item {
+//       background: #fff;
+//       border-radius: 12px;
+//       box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+//       overflow: hidden;
+//       transition: transform 0.3s ease, box-shadow 0.3s ease;
+//       position: relative;
+  
+//       &:hover {
+//         transform: translateY(-5px);
+//         box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+//       }
+  
+//       // Icon sale ⭐️
+//     &--sale{
+        
+//         &::before {
+//             content: "⭐ Giảm giá";
+//             position: absolute;
+//             top: 10px;
+//             left: 10px;
+//             background: red;
+//             color: white;
+//             font-size: 12px;
+//             font-weight: bold;
+//             padding: 4px 8px;
+//             border-radius: 20px;
+//             z-index: 2;
+            
+//           }
+//     }
+    
+//     }
+  
+//     &__image {
+//       width: 100%;
+//       height: 180px;
+//       object-fit: cover;
+//       transition: transform 0.4s ease;
+//       position: relative;
+  
+//       &:hover {
+//         transform: scale(1.1);
+//       }
+  
+//       &::after {
+//         content: "";
+//         position: absolute;
+//         top: 0;
+//         left: -100%;
+//         width: 100%;
+//         height: 100%;
+//         background: linear-gradient(120deg, transparent, rgba(255,255,255,0.4), transparent);
+//         transition: left 0.5s ease-in-out;
+//       }
+  
+//       &:hover::after {
+//         left: 100%;
+//       }
+//     }
+  
+//     &__title {
+//       font-size: 18px;
+//       font-weight: 600;
+//       margin: 10px;
+//       color: #333;
+//     }
+  
+//     &__price-new {
+//       font-size: 16px;
+//       color: #e91e63;
+//       font-weight: bold;
+//       margin: 5px 10px;
+//     }
+  
+//     &__price-old {
+//       font-size: 14px;
+//       text-decoration: line-through;
+//       color: #999;
+//       margin: 0 10px;
+//     }
+  
+//     &__price-sale {
+//       font-size: 14px;
+//       color: #e74c3c;
+//       margin: 0 10px;
+  
+//       s {
+//         text-decoration: line-through;
+//       }
+//     }
+  
+//     &__description {
+//       font-size: 14px;
+//       color: #555;
+//       margin: 10px;
+//       height: 60px;
+//       overflow: hidden;
+//     }
+  
+//     &__btn {
+//       margin: 8px;
+//       padding: 10px 5px;
+//       background-color: #3498db;
+//       color: white;
+//       border: none;
+//       border-radius: 8px;
+//       cursor: pointer;
+//       font-weight: 500;
+//       transition: background 0.3s ease, transform 0.2s ease;
+  
+//       &:hover {
+//         background-color: #2980b9;
+//         transform: scale(1.05);
+//         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+//       }
+  
+//       &:active {
+//         transform: scale(0.98);
+//       }
+//     }
+//   }
+  
+//   @keyframes fadeIn {
+//     from {
+//       opacity: 0;
+//       transform: translateY(-10px);
+//     }
+//     to {
+//       opacity: 1;
+//       transform: translateY(0);
+//     }
+//   }

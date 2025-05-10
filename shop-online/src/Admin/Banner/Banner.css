@@ -1,0 +1,120 @@
+.layout-container_banner {
+    display: flex;
+    gap: 24px;
+    padding: 24px;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: #f9f9f9;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .layout-container_banner .banner-left {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .layout-container_banner .banner-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    background-color: #ffffff;
+    padding: 16px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  .banner-box,
+  .banner-box_bottom {
+    height: 120px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 12px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.25); /* lớp phủ tối nhẹ để nổi chữ */
+    
+  }
+  .banner-box_bottom{
+    height: 179px;
+
+    width: 50%;
+  }
+  .banner-right {
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    background-color: #ffffff;
+    padding: 16px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  .banner-slider {
+    height: 100px;
+    border-radius: 8px;
+    background-color: #eeeeee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #999;
+    font-style: italic;
+    text-decoration: line-through;
+  }
+  
+  .banner-bottom {
+    display: flex;
+    gap: 16px;
+    margin-top: 8px;
+  }
+  
+  .banner-button {
+    padding: 8px 16px;
+    background-color: #4a90e2;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    /* z-index: 1; */
+    position: relative;
+  }
+  
+  .banner-button:hover {
+    background-color: #357ab8;
+  }
+  
+
+.banner-button_app {
+    background-color: #d2269c;          
+  }
+
+
+
+
+/* banner-grid__three */
+.banner-grid__three {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    padding: 5px 25px;
+    margin-bottom: 50px;
+  }
+  
+  .banner-grid__three .banner-box {
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.25); /* lớp phủ tối nhẹ để nổi chữ */
+    
+  }

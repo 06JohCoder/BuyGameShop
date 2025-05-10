@@ -1,0 +1,129 @@
+
+
+
+
+/* silde */
+@media (max-width: 990px) {
+    .slider-container {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      padding: 20px;
+      align-items: flex-start;
+    }
+  }
+
+/* showgame game đã bán */
+@media (max-width: 990px) {
+    .resoin {
+        width: 100%;
+    }
+}
+
+/* NewProduct Game Mới */
+@media(max-width: 990px){
+    .container{
+        width: 100%;
+    }
+}
+
+
+
+/* ---------- Responsive HEADER Two ---------- */
+@media (max-width: 990px) {
+    .layout-default__header {
+      flex-direction: row;
+
+        width: 1135px;
+    }
+    .dropdown-menu{
+        position: relative !important;
+          background-color: aliceblue !important;
+          visibility: visible;
+          opacity: 1;
+          margin-top: 10px;
+    }
+
+    .layout-default__hamburger {
+      display: flex;
+    }
+  
+    .layout-default__nav {
+      position: static;
+      transform: none;
+      width: 100%;
+      display: none;
+    }
+
+    .layout-default__nav.show {
+      display: block;
+    }
+
+    .layout-default__nav-list {
+      flex-direction: column;
+      gap: 1rem;
+      margin-top: 1rem;
+      align-items: center;
+    }
+
+    .layout-default__nav-list .layout-default__cart-mobile {
+      display: block;
+    }
+  
+    /* .layout-default__header {
+      width: 800px;
+    }
+   */
+    .layout-default__logo {
+      flex: 1;
+    }
+  
+    .layout-default__cart.desktop-only {
+      display: none;
+    }
+  }
+  
+
+/* ---------- Responsive HEADER One ---------- */
+@media (max-width: 990px ){
+    .header{
+        width: 1135px; /* Changed width to 100% for better responsiveness */
+    } 
+    
+}
+
+/* ---------- Responsive HEADER Three ListServies---------- */
+
+ @media (max-width: 990px) {
+    .navbar {
+        width: 1135px;
+       
+        padding: 0 10px;
+    }
+
+    .navbar ul {
+        gap: 10px;
+    }
+
+    .navbar li {
+        font-size: 14px; 
+    }
+   
+} 
+
+
+
+
+
+  /* ---------- Responsive HEADER_MAIN_FOOTER---------- */
+  @media (max-width: 990px) {
+  
+      .layout-default__main {
+        width: 1135px;
+      }
+      .layout-default__footer {
+        width: 1135px;
+      }
+
+  }

@@ -1,0 +1,55 @@
+.product-form-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Tự động chia cột phù hợp */
+    gap: 20px;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .product-form-grid > div {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .product-form-grid label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .product-form-grid input,
+  .product-form-grid textarea,
+  .product-form-grid select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .product-form-grid textarea {
+    resize: vertical;
+  }
+  
+  .product-form-actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    grid-column: span 2;
+  }
+  
+  .product-form-actions input[type="submit"],
+  .product-form-actions button {
+    padding: 10px 16px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .product-form-actions button {
+    background-color: #6c757d;
+  }
+  
