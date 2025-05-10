@@ -2,16 +2,16 @@
 Coding Project buygameshop
 
 DEMO Home:
-![Screenshot 2025-05-09 050055](https://github.com/user-attachments/assets/314ad48d-d781-4957-a789-e3d76f6e1429)
+![Screenshot 2025-04-28 184009](https://github.com/user-attachments/assets/a2c773c6-daf5-4c12-8669-2ee16475745d)
+![Screenshot 2025-05-09 050016](https://github.com/user-attachments/assets/6e584e28-bf73-4b6f-ac2c-8386112fac91)
 
-![Screenshot 2025-05-09 050016](https://github.com/user-attachments/assets/77ab583e-4d27-4427-88ec-312fbcf3f8e4)
 
 DEMO Admin: 
-![Screenshot 2025-05-09 050316](https://github.com/user-attachments/assets/fed2d404-be42-4579-9b20-98a6a6763448)
+![Screenshot 2025-05-09 050316](https://github.com/user-attachments/assets/a4e9480e-7ee3-489c-bd7e-11fa926c98cf)
 
 Open with vscode,.....:
+![Screenshot 2025-05-10 180935](https://github.com/user-attachments/assets/44c97062-1f6d-4d16-b6f7-3a50343d0ed6)
 
-![image](https://github.com/user-attachments/assets/6960052f-cc03-4731-808f-b96ea923d289)
 
 cmd database -> npm start
 cmd shop_online -> npm install react-modal -> npm install sweetalert2--> npm install redux --> npm install redux react-redux --> npm start
